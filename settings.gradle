@@ -1,0 +1,2 @@
+rootProject.name='OraRibetAplikasi'
+include ':app'
